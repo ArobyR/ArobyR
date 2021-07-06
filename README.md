@@ -4,7 +4,6 @@
 
 - 📖 I'm learning new things every day
 
-- 😂 Fun fact: I make memes sometimes 
 
 ## ⚡ Technologies
 
