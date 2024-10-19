@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on some personal projects
 
-- 📡 I am looking to collaborate on an open source project
+- 📡 I am looking to collaborate on open source projects
 
 - 📖 I'm learning about computing and software development
 
