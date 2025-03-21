@@ -12,7 +12,7 @@
 
 ### ⚡ Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,linux,git,neovim,postgres,javascript,html,css,bootstrap,nodejs,mysql,cs" />
   </a>
@@ -22,6 +22,6 @@
 
 ### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArobyR&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=java,html,css" alt="ArobyR most used languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArobyR&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=java,html,css,scss" alt="ArobyR most used languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArobyR&show_icons=true&locale=en&theme=tokyonight" alt="ArobyR Github Stats" /></p>
